@@ -1,0 +1,7 @@
+io\vaibhav\container\lifecycle\beans\SpringBean1.class
+io\vaibhav\container\lifecycle\ApplicationConfiguration.class
+io\vaibhav\container\lifecycle\CustomBeanFactoryPostProcessor.class
+io\vaibhav\container\lifecycle\beans\SpringBean2.class
+io\vaibhav\container\lifecycle\CustomBeanPostProcessor.class
+io\vaibhav\container\lifecycle\Runner.class
+io\vaibhav\container\lifecycle\beans\SpringBean3.class

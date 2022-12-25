@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean id="springBean3" class="io.vaibhav.application.context.web.servler_3xml.beans.SpringBean3" />
+
+    <bean id="springBean2" class="io.vaibhav.application.context.web.servler_3xml.beans.SpringBean2" />
+
+    <bean id="springBean1" class="io.vaibhav.application.context.web.servler_3xml.beans.SpringBean1" >
+           <property name="springBean2" ref="springBean2" />
+           <property name="springBean3" ref="springBean3" />
+    </bean>
+
+    <bean id="demoController" class="io.vaibhav.application.context.web.servler_3xml.controller.DemoController" >
+        <property name="springBean1" ref="springBean1" />
+    </bean>
+
+</beans>

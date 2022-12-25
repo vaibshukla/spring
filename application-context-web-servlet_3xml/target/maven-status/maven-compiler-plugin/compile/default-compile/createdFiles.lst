@@ -1,0 +1,5 @@
+io\vaibhav\application\context\web\servler_3xml\beans\SpringBean1.class
+io\vaibhav\application\context\web\servler_3xml\controller\DemoController.class
+io\vaibhav\application\context\web\servler_3xml\beans\SpringBean3.class
+io\vaibhav\application\context\web\servler_3xml\config\XmlWebApplicationInitilizer.class
+io\vaibhav\application\context\web\servler_3xml\beans\SpringBean2.class

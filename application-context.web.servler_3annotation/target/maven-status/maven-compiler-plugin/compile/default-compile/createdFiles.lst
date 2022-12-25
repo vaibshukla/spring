@@ -1,0 +1,6 @@
+io\vaibhav\application\context\web\servlet3\annotation\beans\SpringBean2.class
+io\vaibhav\application\context\web\servlet3\annotation\ConfigurationComponentScan.class
+io\vaibhav\application\context\web\servlet3\annotation\beans\SpringBean3.class
+io\vaibhav\application\context\web\servlet3\annotation\beans\SpringBean1.class
+io\vaibhav\application\context\web\servlet3\annotation\config\AnnotationWebApplicationInitializer.class
+io\vaibhav\application\context\web\servlet3\annotation\controller\DemoController.class

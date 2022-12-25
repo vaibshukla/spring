@@ -1,0 +1,12 @@
+io\vaibhav\dependency\injection\commons\service\EmployeeSalaryCalculator.class
+io\vaibhav\dependency\injection\manual\Runner.class
+io\vaibhav\dependency\injection\spring\Runner.class
+io\vaibhav\dependency\injection\commons\domain\Employee.class
+io\vaibhav\dependency\injection\spring\Configuration.class
+io\vaibhav\dependency\injection\spring\EmployeeReportService.class
+io\vaibhav\dependency\injection\commons\report\PdfSalaryReport.class
+io\vaibhav\dependency\injection\commons\report\XlsSalaryReport.class
+io\vaibhav\dependency\injection\manual\EmployeeReportService.class
+io\vaibhav\dependency\injection\commons\domain\EmployeeSalary.class
+io\vaibhav\dependency\injection\commons\report\SalaryReport.class
+io\vaibhav\dependency\injection\commons\dao\EmployeeDao.class
