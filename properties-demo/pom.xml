@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>io.vaibhav</groupId>
-    <artifactId>properties=demo</artifactId>
+    <artifactId>properties-demo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>

@@ -32,6 +32,9 @@
         <module>application-context.web.servler_3annotation</module>
         <module>bean-lifeCycle</module>
         <module>bean-scope</module>
+        <module>bean-scope-web</module>
+        <module>properties-demo</module>
+        <module>spring-aop</module>
     </modules>
 
     <dependencyManagement>

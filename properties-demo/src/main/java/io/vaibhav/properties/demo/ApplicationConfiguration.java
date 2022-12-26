@@ -1,2 +1,4 @@
-package io.vaibhav.properties.demo;public class ApplicationConfiguration {
+package io.vaibhav.properties.demo;
+
+public class ApplicationConfiguration {
 }
